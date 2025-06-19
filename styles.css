@@ -1,6 +1,6 @@
 
 header {
-    border: 0.3px solid #023e40 ;
+    border: 0.2px solid #023e40 ;
 }
 
 /* Estilo para el header superior */
@@ -70,13 +70,13 @@ header {
 }
 /* Estilos del carrusel */
 .carousel {
-    margin: 3px 0;
+    margin: 1px 0;
 }
 
 .carousel-item img {
     width: 100%;
     height: auto; /* Altura adaptable */
-    max-height: 900px; /* Límite opcional */
+    max-height: 920px; /* Límite opcional */
     object-fit: cover;
 }
 
