@@ -70,13 +70,13 @@ header {
 }
 /* Estilos del carrusel */
 .carousel {
-    margin: 10px 0;
+    margin: 3px 0;
 }
 
 .carousel-item img {
     width: 100%;
     height: auto; /* Altura adaptable */
-    max-height: 550px; /* Límite opcional */
+    max-height: 900px; /* Límite opcional */
     object-fit: cover;
 }
 
