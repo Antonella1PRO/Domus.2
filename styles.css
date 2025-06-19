@@ -1,6 +1,6 @@
 
 header {
-    border: 0.5px solid #023e40 ;
+    border: 0.3px solid #023e40 ;
 }
 
 /* Estilo para el header superior */
@@ -19,7 +19,7 @@ header {
     max-width: 1400px;
     width: 100%;
     margin: 0 auto;/* Centrado */
-    padding: 3px 0px; /* Espaciado interno */
+    padding: 1.5px 0px; /* Espaciado interno */
 }
 .navbar-brand {
     margin-right: auto !important; /* Empuja todo lo demás a la derecha */
@@ -70,13 +70,13 @@ header {
 }
 /* Estilos del carrusel */
 .carousel {
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 .carousel-item img {
     width: 100%;
     height: auto; /* Altura adaptable */
-    max-height: 450px; /* Límite opcional */
+    max-height: 550px; /* Límite opcional */
     object-fit: cover;
 }
 
@@ -131,7 +131,7 @@ header {
     left: 50%;
     transform: translateX(-50%);
     width: 80px;
-    height: 3px;
+    height: 4px;
     background: #FFD500;
 }
 
