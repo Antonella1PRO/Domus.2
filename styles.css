@@ -16,10 +16,9 @@ header {
     color: #000;
     font-size: 0.9rem;
     font-family: 'Roboto', sans-serif;
-    max-width: 1000px; /* Opcional: limita el ancho */
     width: 100%;
     margin: 0 auto;/* Centrado */
-    padding: 8px 0px; /* Espaciado interno */
+    padding: 3px 0px; /* Espaciado interno */
 }
 .navbar-brand {
     margin-right: auto !important; /* Empuja todo lo demás a la derecha */
@@ -41,7 +40,7 @@ header {
 }
 /* Opcional: Aumentar tamaño de los iconos */
 .icon-link i {
-    font-size: 32px; /* Tamaño de los iconos */
+    font-size: 30px; /* Tamaño de los iconos */
 }
 /* Dropdown de Productos */
 .dropdown-menu {
